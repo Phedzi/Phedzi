@@ -1,0 +1,14 @@
+{
+  // This Is a readMe go to doc
+  /*
+  For Resering password you need to include the ->.AddDefaultTokenProviders();
+              services.AddIdentity<UserModel, IdentityRole>()
+                    .AddEntityFrameworkStores<CompanyDbContext>()
+                    .AddDefaultTokenProviders();
+
+
+  Deployment :
+    so far by default the the app will be published as inprocess on the web.config (i dont know what this really is ),
+    you should change it to inprocess
+*/
+}

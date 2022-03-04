@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{6FAE1C70-733C-405E-B4CF-4A082B0B7E8D}|Phedzi">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Common/Transformer.cs">
+    <Files>
+      <File FileName="Models/Budget/UserModel.cs" Line="5" Column="42" IsPinned="True" />
+      <File FileName="Models/Model/Item.cs" Line="18" Column="1" IsPinned="True" />
+      <File FileName="Logic/Services/Service/BudgetService.cs" Line="81" Column="2" />
+      <File FileName="Logic/Services/Service/CategoryService.cs" Line="77" Column="47" />
+      <File FileName="Logic/Services/Service/ItemService.cs" Line="74" Column="14" />
+      <File FileName="Models/Model/Category.cs" Line="11" Column="1" />
+      <File FileName="Models/Budget/CategoryModel.cs" Line="10" Column="34" />
+      <File FileName="Logic/Services/Service/ItemTypeService.cs" Line="69" Column="14" />
+      <File FileName="Logic/Services/Service/UserService.cs" Line="1" Column="1" />
+      <File FileName="Logic/Services/Service/UserTypeService.cs" Line="18" Column="20" />
+      <File FileName="Models/Budget/ItemModel.cs" Line="18" Column="1" />
+      <File FileName="Models/Common/Transformer.cs" Line="15" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Api" expanded="True">
+            <Node name="Logic" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Models" expanded="True">
+              <Node name="Budget" expanded="True" />
+              <Node name="Common" expanded="True">
+                <Node name="Transformer.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
