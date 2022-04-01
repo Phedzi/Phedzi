@@ -1,0 +1,17 @@
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\Logic.deps.json
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\Logic.runtimeconfig.json
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\Logic.runtimeconfig.dev.json
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\Logic.dll
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\Logic.pdb
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\DAL.dll
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\Models.dll
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\DAL.pdb
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\bin\Release\netcoreapp3.1\Models.pdb
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\obj\Release\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\obj\Release\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\obj\Release\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\obj\Release\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\obj\Release\netcoreapp3.1\Logic.csproj.CopyComplete
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\obj\Release\netcoreapp3.1\Logic.dll
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\obj\Release\netcoreapp3.1\Logic.pdb
+C:\Users\10018608\Desktop\Projects\Phedzi\checkerapi\Logic\obj\Release\netcoreapp3.1\Logic.genruntimeconfig.cache
